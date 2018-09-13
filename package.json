@@ -1,0 +1,33 @@
+{
+  "name": "php-p2p",
+  "version": "1.0.0",
+  "description": "this is a web of p2p for people to debit and credit",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shunzige/php-p2p.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shunzige/php-p2p/issues"
+  },
+  "homepage": "https://github.com/shunzige/php-p2p#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^4.0.0"
+  },
+  "dependencies": {
+    "gulp-clean-css": "^3.10.0",
+    "gulp-less": "^4.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.1"
+  }
+}
